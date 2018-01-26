@@ -1,0 +1,24 @@
+{
+  "name": "cherrio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bytes": "^3.0.0",
+    "cheerio": "^1.0.0-rc.2",
+    "progress": "^2.0.0",
+    "qs": "^6.5.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.7",
+    "@types/qs": "^6.5.1",
+    "@types/request-promise": "^4.1.40"
+  }
+}

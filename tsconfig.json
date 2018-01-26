@@ -1,0 +1,12 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+      "outDir": "./dist",
+      "target": "es2017",
+      "module": "es6",
+      "sourceMap": true
+    },
+    "include": [
+      "*.ts"
+    ]
+  }
